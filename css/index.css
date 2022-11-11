@@ -330,6 +330,7 @@ main{
     footer > div {
         display: none;
     }
+    
 }
 
 @media (max-width:1199px) and (min-width:768px) {
